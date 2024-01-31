@@ -1,0 +1,2 @@
+# python_blockchain_study
+pythonを用いたブロックチェーンの学習
